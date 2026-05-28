@@ -2,3 +2,4 @@ a+b=sum
 a-b=minus
 a*b=product
 a/b=div
+a^b=exponent
